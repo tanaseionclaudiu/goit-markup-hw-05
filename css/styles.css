@@ -517,6 +517,9 @@ ul {
 
 .form-row {
     margin-bottom: 8px;
+}
+
+.form-label {
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
@@ -527,6 +530,7 @@ ul {
 
 .form-input-w-icon {
     position: relative;
+    margin-bottom: 8px;
 }
 
 .form-input {
