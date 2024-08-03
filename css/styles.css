@@ -562,6 +562,10 @@ ul {
     fill: #4D5AE5;
 }
 
+.user-comment-row {
+    margin-bottom: 16px;
+}
+
 .user-comment {
     width: 100%;
     height: 120px;
